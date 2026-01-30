@@ -41,7 +41,7 @@
             isAlive = false;
         }
 
-        //param constructor
+        //paramatized constructor
 
         public Human(string name, string hairColor, string eyeColor, bool isAlive)
             : base(name)
